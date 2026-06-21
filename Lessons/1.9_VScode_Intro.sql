@@ -24,7 +24,7 @@ LIMIT 20;
 SELECT
     *
 FROM 
-    skills_dim;
+    company_dim;
 
 SELECT
     COUNT(*)
