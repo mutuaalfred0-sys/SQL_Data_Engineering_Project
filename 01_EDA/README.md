@@ -49,7 +49,7 @@ By querying across these interconnected tables, I extracted insights about skill
 
 1. **[Top Demanded Skills](01_Top_Demanded_Skills.sql)**  – Identifies the 10 most in-demand skills for remote data engineer positions  
 2. **[Top Paying Skills](01_EDA\02_Top_Paying_Skills.sql)** – Analyzes the 25 highest-paying skills with salary and demand metrics  
-3. **[Optimal Skills](03_Most_Optima_Skills.sql)** – Calculates an optimal score using natural log of demand combined with median salary to identify the most valuable skills to learn 
+3. **[Optimal Skills](/01_EDA/03_Most_Optimal_Skills.sql)** – Calculates an optimal score using natural log of demand combined with median salary to identify the most valuable skills to learn 
 
 ### Key Insights
 - 🧠 Core languages: SQL and Python each appear in ~29,000 job postings, making them the most demanded skills  
