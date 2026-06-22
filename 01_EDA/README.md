@@ -15,7 +15,7 @@ A SQL project analyzing the data engineer job market using real world job postin
 If you only have a minute, review these:  
 1. [01_Top_Demanded_Skills](01_Top_Demanded_Skills.sql) *-demand analysis with multi-table joins*  
 2. [02_Top_Paying_Skills](02_Top_Paying_Skills.sql) *-salary analysis with aggregation*  
-3. [03_Optimal_Skill](\03_Most_Optimal_Skills.sql)- *salary optimization query*   
+3. [03_Optimal_Skill](03_Most_Optimal_Skills.sql)- *salary optimization query*   
 
 ## Problem & Context  
 Job market analysts need to answer questions like:
